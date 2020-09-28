@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F3B77DCA-44E4-4402-A43E-DCF3AF48A8F3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E0600C8-BC56-4057-956C-B6B41916B66D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculator_basic_ver2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "checkIntNumber(number:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D130BAB4-7C0E-44EB-8804-6255E7D01265"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculator_basic_ver2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "calculator(StringInput:StringCalculationSign:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D130BAB4-7C0E-44EB-8804-6255E7D01265 - 5eac09388d768e31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculator_basic_ver2.ViewController.calculator(StringInput: Swift.String, StringCalculationSign: Swift.String) -&gt; ()"
+                  moduleName = "calculator_basic_ver2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vohoangduckhoa/Desktop/calculator_basic_ver2/calculator_basic_ver2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "906">
+               </Location>
+               <Location
+                  uuid = "D130BAB4-7C0E-44EB-8804-6255E7D01265 - 5eac09388d768e31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculator_basic_ver2.ViewController.calculator(StringInput: Swift.String, StringCalculationSign: Swift.String) -&gt; ()"
+                  moduleName = "calculator_basic_ver2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vohoangduckhoa/Desktop/calculator_basic_ver2/calculator_basic_ver2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "933">
+               </Location>
+               <Location
+                  uuid = "D130BAB4-7C0E-44EB-8804-6255E7D01265 - 5eac09388d768e31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculator_basic_ver2.ViewController.calculator(StringInput: Swift.String, StringCalculationSign: Swift.String) -&gt; ()"
+                  moduleName = "calculator_basic_ver2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vohoangduckhoa/Desktop/calculator_basic_ver2/calculator_basic_ver2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "3933">
+               </Location>
+               <Location
+                  uuid = "D130BAB4-7C0E-44EB-8804-6255E7D01265 - 5eac09388d768e31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculator_basic_ver2.ViewController.calculator(StringInput: Swift.String, StringCalculationSign: Swift.String) -&gt; ()"
+                  moduleName = "calculator_basic_ver2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vohoangduckhoa/Desktop/calculator_basic_ver2/calculator_basic_ver2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "5444">
+               </Location>
+               <Location
+                  uuid = "D130BAB4-7C0E-44EB-8804-6255E7D01265 - 5eac09388d768e31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculator_basic_ver2.ViewController.calculator(StringInput: Swift.String, StringCalculationSign: Swift.String) -&gt; ()"
+                  moduleName = "calculator_basic_ver2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vohoangduckhoa/Desktop/calculator_basic_ver2/calculator_basic_ver2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "6958">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E6A8A3F1-5B86-4D78-AB27-62B3D5E56417"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculator_basic_ver2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "calculator(StringInput:StringCalculationSign:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05256643-703E-4CB6-8E4B-C662BF4BA67E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculator_basic_ver2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "calculator(StringInput:StringCalculationSign:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D26CCAA-CE5F-4B88-8CEB-7D6C7B7AD5AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculator_basic_ver2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "calculator(StringInput:StringCalculationSign:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4326A19-8CFB-45E4-A50D-BFDDB33A7A9A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculator_basic_ver2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "254"
+            endingLineNumber = "254"
+            landmarkName = "btnNumber0(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4A3B12F-A0E0-4777-A1DD-81A4B088E84C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculator_basic_ver2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "255"
+            endingLineNumber = "255"
+            landmarkName = "btnNumber0(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
